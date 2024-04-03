@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BenLutzko
-- 
+# Ben Lutzko
+
 ## About Me
 I am a third-year Kinesiology student at the University of Calgary, majoring in Biomechanics. My academic experience includes biomechanical analysis of forceplate and motion capture data using MATLAB, basic Python, and various laboratory techniques.
 
