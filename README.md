@@ -1,7 +1,7 @@
 # Ben Lutzko
 
 ## About Me
-To learn more check out my [Website resume](https://benlutzko.github.io/) !
+To learn more check out my [research experience]({https://benlutzko.github.io/BenResearchWebpage/webpage.html) and or my [Website resume](https://benlutzko.github.io/) !
 
 I am a fourth-year Kinesiology student at the University of Calgary, majoring in Biomechanics. My academic experience includes biomechanical analysis of forceplate and motion capture data using MATLAB, basic Python, and various laboratory techniques.
 
